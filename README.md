@@ -1,4 +1,7 @@
-# Gerador de Senhas Seguras
+![Captura de tela de 2025-01-13 15-54-53](https://github.com/user-attachments/assets/dda33016-e4b2-4bb1-a2b6-6d41e3bd95c0)
+
+Geredor de Senhas Seguras
+
 
 ## Descrição
 Um aplicativo Python que gera senhas seguras e customizáveis. Ideal para quem deseja manter suas contas protegidas com senhas fortes.
