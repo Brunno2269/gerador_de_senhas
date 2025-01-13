@@ -1,0 +1,3 @@
+# Este projeto não possui dependências externas.
+# Caso necessário, adicione aqui os pacotes com suas versões, exemplo:
+# pacote==versao
